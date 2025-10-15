@@ -15,7 +15,7 @@ from langchain.chains import LLMChain
 API_KEY = st.secrets["API_KEY"]
 DATABASE_URL = st.secrets["DATABASE_URL"]
 DATA_PATH = "/sensor_readings"
-DEEPSEEK_API_KEY = st.secrets["DEEPSEEK_API_KEY"]  # Replace with your actual key
+DEEPSEEK_API_KEY = st.secrets["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"]  # Replace with your actual key
 DEEPSEEK_API_URL = st.secrets["DEEPSEEK_API_URL"]
 
 
@@ -25,7 +25,7 @@ FIREBASE_REST_URL = f"{DATABASE_URL}{DATA_PATH}.json?auth={API_KEY}"
 
 # Streamlit configuration
 st.set_page_config(
-    page_title="Smart Rainfall Monitor Dashboard",
+    page_title="Smart Rainfall harvesting Dashboard",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"

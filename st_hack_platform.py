@@ -68,7 +68,7 @@ def generate_dummy_data():
 with st.sidebar:
     st.title("⚙️ Dashboard Controls")
     time_range = st.selectbox("Time Range", ["Last 24h", "Last 7 Days", "Last 30 Days", "All Data"])
-    refresh_rate = st.slider("Auto-refresh (seconds)", 0, 300, 15)
+    refresh_rate = st.slider("Auto-refresh (seconds)", 0, 900, 450)
     if st.button("Refresh Data"):
         st.cache_data.clear()
 

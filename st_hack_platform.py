@@ -130,7 +130,7 @@ else:
         }
         
         # Create prompt as a simple Python string
-        system_prompt = """You are an expert agricultural analyst specializing in irrigation systems and drought crisis. We are analyzing rainfall data in Tangier, Morocco within the following context:
+        system_prompt = """You are an expert agricultural analyst specializing in water harvesting and irrigation systems and drought crisis. We are analyzing rainfall data in Tangier, Morocco within the following context:
 
         Morocco is experiencing severe water scarcity, with per-capita water availability plummeting from 2,560 m³/year in 1960 to under 620 m³ in 2020, and projected to fall below 500 m³ by 2030 (World Bank). Meanwhile, over 80 % of rainwater in urban areas is wasted—flowing into sewers or the sea—instead of being captured for reuse. This mismanagement causes urban flooding, accelerates groundwater depletion (up to 3 m/year in some regions), and increases reliance on costly water transport. There is an urgent need to capture and repurpose rainwater to supply regions with low annual rainfall.
         

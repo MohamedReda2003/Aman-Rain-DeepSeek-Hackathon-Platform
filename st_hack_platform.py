@@ -25,7 +25,7 @@ FIREBASE_REST_URL = f"{DATABASE_URL}{DATA_PATH}.json?auth={API_KEY}"
 
 # Streamlit configuration
 st.set_page_config(
-    page_title="Smart Rainfall harvesting Dashboard",
+    page_title="Smart Rainfall Harvesting Dashboard",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -86,7 +86,7 @@ if df.empty:
 else:
     # Dashboard components
     #with col1:
-    st.title("🌿 Smart Irrigation System Dashboard")
+    st.title("🌿 Smart Rainfall Harvesting Dashboard")
     
     # Time series visualization
     st.subheader("Underground Tanks Filling Level Trends")

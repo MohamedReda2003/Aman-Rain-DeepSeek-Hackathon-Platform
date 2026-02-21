@@ -157,12 +157,6 @@ Contributions and suggestions are welcome! Feel free to open an issue or submit 
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 Made with 💙 by Team **Aman Rain** · AI2SD Hackathon 2025 · Morocco

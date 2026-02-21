@@ -129,7 +129,7 @@ Once the app is running, you'll be greeted with the Aman Rain chatbot interface.
 
 | Name | Role |
 |---|---|
-| **Mohamed Reda Zhar** | Developer |
+| **Mohamed Reda Zhar** | Team Member |
 | **Anas Boulben** | Team Member |
 | **SARHANE Douae** | Team Member |
 | **Nour Sarhden** | Team Member |
